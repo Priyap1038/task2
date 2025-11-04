@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sk-001",
+    "typeOfSand": "Masonry Sand",
+    "companyName": "Bedrock Supplies",
+    "location": "Phoenix, AZ",
+    "description": "Fine-grained, washed sand ideal for mortar, stucco, and paver joints.",
+    "pricePerUnit": 52.50,
+    "unit": "ton"
+  },
+  {
+    "id": "sk-002",
+    "typeOfSand": "Play Sand",
+    "companyName": "Coastal Sands Inc.",
+    "location": "Jacksonville, FL",
+    "description": "Soft, clean, and screened sand. Non-toxic and perfect for sandboxes.",
+    "pricePerUnit": 6.99,
+    "unit": "50lb bag"
+  },
+  {
+    "id": "sk-003",
+    "typeOfSand": "Concrete Sand",
+    "companyName": "Aggregate Solutions",
+    "location": "Austin, TX",
+    "description": "Coarse, sharp sand that binds exceptionally well with cement and gravel.",
+    "pricePerUnit": 48.00,
+    "unit": "ton"
+  },
+  {
+    "id": "sk-004",
+    "typeOfSand": "Silica Sand",
+    "companyName": "Inland Materials",
+    "location": "Denver, CO",
+    "description": "High-purity quartz sand used for glassmaking, filtration, and sandblasting.",
+    "pricePerUnit": 115.00,
+    "unit": "ton"
+  },
+  {
+    "id": "sk-005",
+    "typeOfSand": "River Sand",
+    "companyName": "Riverbend Aggregates",
+    "location": "Memphis, TN",
+    "description": "Naturally weathered sand with smooth, rounded grains. Good for plastering.",
+    "pricePerUnit": 45.00,
+    "unit": "ton"
+  },
+  {
+    "id": "sk-006",
+    "typeOfSand": "Utility Sand",
+    "companyName": "Quality Fill Co.",
+    "location": "Raleigh, NC",
+    "description": "A cost-effective, unwashed sand used for fill, base layers, and traction.",
+    "pricePerUnit": 28.50,
+    "unit": "ton"
+  },
+  {
+    "id": "sk-007",
+    "typeOfSand": "Paver Sand",
+    "companyName": "Bedrock Supplies",
+    "location": "Seattle, WA",
+    "description": "Coarse sand used as a base layer and leveling agent for patio pavers.",
+    "pricePerUnit": 7.25,
+    "unit": "0.5 cu ft bag"
+  },
+  {
+    "id": "sk-008",
+    "typeOfSand": "White Sand",
+    "companyName": "Coastal Sands Inc.",
+    "location": "Miami, FL",
+    "description": "Bright white decorative sand, perfect for volleyball courts and landscaping.",
+    "pricePerUnit": 14.99,
+    "unit": "50lb bag"
+  },
+  {
+    "id": "sk-009",
+    "typeOfSand": "Arena Sand",
+    "companyName": "Equine Aggregates",
+    "location": "Ocala, FL",
+    "description": "Washed and screened sand with angular particles for horse footing.",
+    "pricePerUnit": 85.00,
+    "unit": "ton"
+  },
+  {
+    "id": "sk-010",
+    "typeOfSand": "All-Purpose Sand",
+    "companyName": "Inland Materials",
+    "location": "Las Vegas, NV",
+    "description": "A general-purpose sand for landscaping, mixing with soils, or weighting.",
+    "pricePerUnit": 5.50,
+    "unit": "50lb bag"
+  }
+]
